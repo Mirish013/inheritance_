@@ -1,0 +1,6 @@
+M:\RiderProject\Inheritance\Inheritance\bin\Debug\Inheritance.exe
+M:\RiderProject\Inheritance\Inheritance\bin\Debug\Inheritance.pdb
+M:\RiderProject\Inheritance\Inheritance\obj\Debug\Inheritance.csprojAssemblyReference.cache
+M:\RiderProject\Inheritance\Inheritance\obj\Debug\Inheritance.csproj.CoreCompileInputs.cache
+M:\RiderProject\Inheritance\Inheritance\obj\Debug\Inheritance.exe
+M:\RiderProject\Inheritance\Inheritance\obj\Debug\Inheritance.pdb
